@@ -19,6 +19,7 @@ langchainhub = "^0.1.15"
 tavily-python = "^0.3.3"
 python-dotenv = "^1.0.1"
 langgraph = "^0.0.49"
+langchain-anthropic = "^0.1.12"
 
 
 [tool.poetry.group.dev.dependencies]
