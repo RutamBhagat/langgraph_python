@@ -24,6 +24,8 @@ pandas = "^2.2.2"
 langchain-experimental = "^0.0.58"
 matplotlib = "^3.9.0"
 langchain-core = "^0.1.52"
+bs4 = "^0.0.2"
+chromadb = "^0.5.0"
 
 
 [tool.poetry.group.dev.dependencies]
